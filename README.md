@@ -33,6 +33,10 @@ The list of websites is filtered using a [filter](filter) file. The list was gen
 
 If you'd like to add a site to the list of supported websites, please file a PR. This project has a [Code of Conduct](CODE_OF_CONDUCT.md).
 
+## Privacy Policy
+
+See [PRIVACY.md](PRIVACY.md).
+
 ## Licence [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
