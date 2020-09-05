@@ -20,7 +20,7 @@ The Proxy configuration is as follows:
 - Host: `proxy.sarkar.icu`
 - Port: `8888`
 
-The proxy supports both HTTP and HTTPS websites. Please reach out at [captnemo.in/contact](https://captnemo.in/contact) for credentials.
+The proxy supports both HTTP and HTTPS websites. Please send an email to <mailto:sanskari.proxy@captnemo.in?subject=Sanskari%20Proxy%20Access&body=Please%20add%20a%20link%20to%20some%20public%20profile%20of%20yours%20here.>
 
 ## Websites
 
