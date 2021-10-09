@@ -2,12 +2,12 @@
 
 Original idea on my [ideas repo](https://github.com/captn3m0/ideas#-sanskari-proxy).
 
-A proxy for security researchers outside India to access Indian government websites without resorting to shady VPNs.
+A proxy for researchers outside India to access Indian government websites without resorting to shady VPNs.
 
 ## Why?
 
 - Indian government websites are often geo-blocked to India.
-- Security researchers outside India have no way to access these.
+- Researchers outside India have no way to access these (other than shady VPNs)
 
 ## How?
 
@@ -28,6 +28,8 @@ The list of websites is filtered using a [filter](filter) file. The list was gen
 
 1. [GOI Directory](http://goidirectory.nic.in/).
 2. Subdomains of `gov.in` discovered using [crt.sh](https://crt.sh).
+
+A plain-text version of this list can be found on https://git.io/JrjcV
 
 ## Configuration changes
 
